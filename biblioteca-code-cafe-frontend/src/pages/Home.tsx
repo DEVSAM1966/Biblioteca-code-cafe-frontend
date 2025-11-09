@@ -1,11 +1,9 @@
 export const Home = () => {
-   return (
-      <div>
-         <h1 className="text-center text-2xl font-bold mt-10">
-            Bienvenido a Librería CodigoJava
-         </h1>
-         {/* Aquí irán otros componentes */}
-         {/* <Footer /> */}
-      </div>
-   )
-}
+  return (
+    <div>
+      <h1 className="text-center text-2xl font-bold mt-10">
+        Bienvenido a Librería CodigoJava</h1>
+    </div>
+  );
+};
+
